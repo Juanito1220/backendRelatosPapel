@@ -7,6 +7,9 @@
     <project name="gateway" path="$PROJECT_DIR$/Gateway">
       <vcs id="Git" remoteUrl="https://github.com/UnirCs/back-end-cloud-gateway.git" />
     </project>
+    <project name="ms-books-catalogue" path="$PROJECT_DIR$/ms-books-catalogue">
+      <vcs id="Git" remoteUrl="https://github.com/UnirCs/back-end-inventory-products" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
